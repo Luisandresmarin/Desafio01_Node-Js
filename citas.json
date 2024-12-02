@@ -1,0 +1,16 @@
+[
+  {
+    "nombre": "cucho",
+    "edad": "2años",
+    "animal": "gato",
+    "color": "blanco",
+    "enfermedad": "motas"
+  },
+  {
+    "nombre": "cucho",
+    "edad": "1año",
+    "animal": "gato",
+    "color": "blanco",
+    "enfermedad": "motas"
+  }
+]
